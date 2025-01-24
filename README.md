@@ -1,4 +1,4 @@
-# Roller Coaster and Amusement Park Data
+# Rollercoaster and Amusement Park Data
 _Last Updated: **11/24/2024**_
 
 _Data from https://rcdb.com_
