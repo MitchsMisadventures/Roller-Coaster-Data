@@ -18,25 +18,29 @@ Dataframes with information relating to approximately 6,000 theme parks and over
 
 # Available Dataframes
 
-## `defunct_rollercoasters.csv`
+## Rollercoasters_Defunct.csv
 
 Roller coasters that are defunct.
 
-## `operating_rollercoasters.csv`
+## Rollercoasters_Operational.csv
 
 Roller coasters that are currently operating as of the last update date.
 
-## `sbno_rollercoasters.csv`
+## Rollercoasters_SBNO.csv
 
 Roller coasters that are currently SBNO (standing but not operating) as of the last update date.
 
-## `defunct_rollercoasters.csv`
+## Rollercoasters_Defunct.csv
 
 Roller coasters that are defunct (not operating).
 
-## `all_roller_coasters.csv` 
+## Rollercoasters.csv
 
 Dataframe that consists all types of dataframes merged into one. The status of each roller coaster is noted.
+
+## AmusementParks.csv
+
+Dataframe with general Amusment Park information as well as a key that can be used in relation to the other Rollercoaster dataframes.
 
 ---
 
